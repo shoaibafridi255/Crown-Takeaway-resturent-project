@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400..700&display=swap');
+
+.contatHead{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.btn.btn-warning.button:hover {
+    background-color: orange !important;
+    color: white !important;
+  }
+.name:focus{
+    box-shadow: none;
+}
+.email:focus{
+    box-shadow: none;
+}
+.subject:focus{
+    box-shadow: none;
+}
+.textAria:focus{
+    box-shadow: none;
+}

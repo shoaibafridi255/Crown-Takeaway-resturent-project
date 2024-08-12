@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400..700&display=swap');
+
+.aboutContainer{
+    min-height: 90vh;
+}
+
+.innerText {
+    width: 50rem;
+    /* border: 2px solid white; */
+}
+
+.innerHead{
+    font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+/* .btn.btn-warning.button:hover {
+    background-color: orange !important;
+    color: white !important;
+  }
+   */
